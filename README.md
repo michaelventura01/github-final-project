@@ -10,5 +10,6 @@ Input:
 Output
    simple interest = p*t*r
 
+nice to add
 
 © 2023 XYZ, Inc.
